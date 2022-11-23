@@ -80,7 +80,7 @@ class RegisterScreen extends StatelessWidget {
                           label: TextManager.firstName,
                           prefixIcon: Icons.person,
                         ),
-                        const SizedBox(height: 12),
+                        const SizedBox(height: AppSize.size12),
                         buildTextFormField(
                           controller: lastNameController,
                           inputType: TextInputType.name,
