@@ -10,6 +10,8 @@ Flutter Payment App Which let you to pay from your visa card or within Reference
 
 - bloc / flutter bloc state managment 
 
+- flutter_local_notifications
+
 - webview_flutter 
 
 - clean code 
